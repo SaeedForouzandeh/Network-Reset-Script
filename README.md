@@ -2,9 +2,9 @@
 
 ![Windows](https://img.shields.io/badge/Windows-Batch-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-✨ یه اسکریپت ساده و کاربردی برای ریست کردن تنظیمات شبکه تو ویندوز! دیگه نیازی نیست دستورات طولانی رو تو CMD تایپ کنی. فقط این فایل بات رو اجرا کن و همه‌چیز خودکار انجام میشه! 🚀
+✨ یه اسکریپت ساده و کاربردی برای ریست کردن تنظیمات شبکه تو ویندوز! دیگه نیازی نیست دستورات طولانی رو تو CMD تایپ کنی. فقط این فایل بات رو اجرا کن و همه‌چیز خودکار انجام میشه! فقط آخرش سیستمت رو ری استارت بکن .🚀
 
-✨ A simple and handy batch script to reset network settings in Windows! No need to type long commands in CMD anymore—just run this batch file, and it takes care of everything! 🚀
+✨ A simple and handy batch script to reset network settings in Windows! No need to type long commands in CMD anymore—just run this batch file, and it takes care of everything!Just restart your system at the end. 🚀
 
 ---
 
